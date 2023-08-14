@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="phonenumber"><b>Phonenumber</b></label>
+    <input type="text" placeholder="Enter Phonenumber" name="phonenumber" id="phonenumber" required>
+    <br>
+
     <label for="psw"><b>Your Current Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
